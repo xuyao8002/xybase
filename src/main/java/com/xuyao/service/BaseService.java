@@ -5,4 +5,6 @@ package com.xuyao.service;
  */
 public interface BaseService {
     void printInfo();
+
+    String sayHello();
 }
