@@ -7,4 +7,6 @@ public interface BaseService {
     void printInfo();
 
     String sayHello();
+    
+    String sayHello(int num);
 }
